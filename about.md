@@ -13,9 +13,9 @@ hide_description: true
 <span style="font-size:170%;font-weight:bold"> 안영훈
 </span>
 </center>
-<center>MAJOR : COMPUTER SCIENCE</center>
-<center>Korean University</center>
-<center>6-1, Anam-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
+<center>MAJOR : COMPUTER ENGINEERING</center>
+<center>Gachon University</center>
+<center>6-1, Seongnam-daero 1318beon-gil, Sujeong-gu, Seongnam-si, Republic of Korea</center>
 ## Personal Data
 ---
 > 1995.01.23 대한민국,원주시 출생> 연락처: akdgns12@naver.com
@@ -23,7 +23,7 @@ hide_description: true
 ---
 > Mar.2014 ~ Feb.2021 가천대학교
 >
-> IT 컴퓨터공학과 (COMPUTER SCIENCE ENGINEERING)
+> IT 컴퓨터공학과 (COMPUTER ENGINEERING)
 ## Research Interest
  
 ---
