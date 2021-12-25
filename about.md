@@ -19,7 +19,7 @@ hide_description: true
 ## Personal Data
 ---
 > 1995.01.23 대한민국,원주시 출생> 연락처: akdgns12@naver.com
-> Github : [https://github.com/khw11044](https://github.com/khw11044) ## Education
+> Github : [https://github.com/akdgns12](https://github.com/akdgns12) ## Education
 ---
 > Mar.2014 ~ Feb.2021 가천대학교
 >
