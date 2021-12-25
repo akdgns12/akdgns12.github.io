@@ -14,7 +14,7 @@ categories:
  - example2
 ---
 
-# What's New in Hydejack 9.1?
+# 예시2-게시물2
 
 What's New in Hydejack 9.1?
 
