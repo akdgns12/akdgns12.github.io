@@ -2,7 +2,7 @@
 layout: about
 image: /assets/img/me.jpg
 description: >
-		백엔드 개발자가 되기 위해 공부하고 있습니다.
+           백엔드 개발자가 되기 위해 공부하고 있습니다.
 hide_description: true
 ---
 
@@ -15,7 +15,7 @@ hide_description: true
 </center>
 <center>MAJOR : COMPUTER ENGINEERING</center>
 <center>Gachon University</center>
-<center>6-1, Seongnam-daero 1318beon-gil, Sujeong-gu, Seongnam-si, Republic of Korea</center>
+<center>6-1, Seongnam-daero  318beon-gil, Sujeong-gu, Seongnam-si, Republic of Korea</center>
 ## Personal Data
 ---
 > 1995.01.23 대한민국,원주시 출생> 연락처: akdgns12@naver.com
@@ -25,7 +25,7 @@ hide_description: true
 >
 > IT 컴퓨터공학과 (COMPUTER ENGINEERING)
 ## Research Interest
- 
+
 ---
 * Computer Vision
 + image Object Detection
