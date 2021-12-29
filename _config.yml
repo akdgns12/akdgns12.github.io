@@ -85,9 +85,9 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 # 로컬에서 사용할 떄 theme 오픈
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 # github pages일떄 remote_theme 오픈
-remote_theme: hydecorp/hydejack@v9.0.0-rc.6
+#remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 
 # Customizaton
