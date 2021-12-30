@@ -22,7 +22,7 @@ hide_description: true
 >
 > 연락처: akdgns12@naver.com
 >
-> Github : [https://github.com/akdgns12](https://github.com/akdgns12) 
+> Github : [https://github.com/akdgns12](https://github.com/akdgns12)
 
 ## Education
 ---
@@ -30,7 +30,7 @@ hide_description: true
 >
 > IT 컴퓨터공학과 (COMPUTER ENGINEERING)
 
-## Skills 
+## Skills
 ---
 > Language : Java, Phyton
 >
